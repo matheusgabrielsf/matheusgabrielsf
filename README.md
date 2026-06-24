@@ -1,4 +1,4 @@
-## Olá! Eu sou o Matheus Gabriel 👋
+## Olá! Eu sou o Matheus Gabriel, estudante de ADS pela PUC Minas!👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusgabrielsf&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusgabrielsf&layout=compact&theme=tokyonight)
