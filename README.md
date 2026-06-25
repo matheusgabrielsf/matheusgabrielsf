@@ -1,7 +1,14 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fff&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Matheus+Gabriel+👋;Estudante+de+ADS+pela+PUC+Minas.;+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Matheus+👋;Estudante+de+ADS+pela+PUC+Minas.;+Welcome!+:%29)](https://git.io/typing-svg)
+
+##
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=matheusgabrielsf&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Isabella Oliveira github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusgabrielsf&layout=compact&hide_border=true&title_color=fff&text_color=ff91a4&bg_color=0d1117" />
+</div>
 
 ##
 
@@ -18,4 +25,14 @@
 
 <a href="https://www.linkedin.com/in/matheusgabrielsf/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:matheusgabrielmit@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fff&height=120&section=footer"/>
+
+
+
+
+
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=matheusgabrielsf&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Isabella Oliveira github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusgabrielsf&layout=compact&hide_border=true&title_color=fff&text_color=ff91a4&bg_color=0d1117" />
+</div>
