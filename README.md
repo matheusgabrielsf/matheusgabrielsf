@@ -1,7 +1,7 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fff&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff4500&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Matheus+👋;Estudante+de+ADS+pela+PUC+Minas.;+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff4500&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Matheus+👋;Estudante+de+ADS+pela+PUC+Minas.;+Welcome!+:%29)](https://git.io/typing-svg)
 
 ##
 
@@ -21,4 +21,4 @@
   <img align="center" alt="Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fff&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff4500&height=120&section=footer"/>
