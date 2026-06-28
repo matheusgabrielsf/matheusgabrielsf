@@ -21,4 +21,4 @@
   <img align="center" alt="Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
-<img width=1000% src="https://capsule-render.vercel.app/api?type=waving&color=ff4500&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff4500&height=120&section=footer"/>
