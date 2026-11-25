@@ -5,12 +5,6 @@
 
 ---
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=matheusgabrielsf&layout=compact&theme=tokyonight&title_color=7dcfff&text_color=e2e8f0&icon_color=ff7700&bg_color=0d1117&hide_border=true" alt="Principais idiomas" />
-</p>
-
----
-
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white)
