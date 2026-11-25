@@ -6,7 +6,6 @@
 ---
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=matheusgabrielsf&show_icons=true&theme=tokyonight&title_color=7dcfff&text_color=e2e8f0&icon_color=7dcfff&bg_color=0d1117&hide_border=true" alt="Estatísticas do GitHub" />
   <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=matheusgabrielsf&layout=compact&theme=tokyonight&title_color=7dcfff&text_color=e2e8f0&icon_color=ff7700&bg_color=0d1117&hide_border=true" alt="Principais idiomas" />
 </p>
 
